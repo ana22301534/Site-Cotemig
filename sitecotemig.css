@@ -1,0 +1,174 @@
+*{
+    margin: 0;
+}
+
+body{
+     background-image: url(fundo\ 1.png);
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+
+#tabela{  
+     background-color: #3a0b63;
+     vertical-align: middle;
+}
+
+div{
+     text-align: center;
+}
+
+.branco{
+     width: 25%;
+}
+
+#rosa{
+   background-color: #fb45c7;
+   vertical-align: middle; 
+   font-family: "raleway", sans-serif; 
+   color: #ffffff;
+}
+
+#rosa p{
+     text-align: left;
+     font-size: 16px;
+}
+
+#rosa h1{
+     text-align: left;
+     font-size: 30px;
+     padding-bottom: 20px;
+}
+
+#rosa h4{
+     text-align: left;
+     font-size: 17px;
+     padding-bottom: 10px;
+}
+
+#verde{
+     background-color: #86f667;
+     vertical-align: middle;
+     text-align: center;
+     padding: 1rem;  
+}
+
+table{
+     width: 100%;
+     height: 110px;
+}
+
+#imagemco{
+     width: 90%;
+}
+
+#imagema{
+     width: 90%;
+}
+
+#imagemte{
+     width: 65%;
+}
+
+#imagemgo{
+     width: 50%;
+}
+
+td{ 
+     text-align: center;
+}
+
+#rowspan{
+     width: 100%;
+}
+
+#teste{   
+     column-count: 3;
+}
+
+#teste2{
+     margin-left: -500px;
+}
+
+#teste3{
+     margin: auto;  
+}
+
+#verde p{
+     font-family: "raleway", sans-serif; 
+     color: #661083;
+     font-weight: 800;
+}
+
+#roxo{
+     background-color: #430b6e;
+     vertical-align: center; 
+     font-family: "raleway", sans-serif; 
+} 
+
+#roxo p{
+     font-size: 24px;
+     color: #89f668;
+     text-align: center;
+}
+
+#roxo h1{
+     font-size: 32px;
+     color: #89f668; 
+}
+
+#roxoc{
+     background-color: #5b1078;
+}
+
+#roxoc img{
+    padding: 10%;
+}
+
+.botao{
+caption-side: bottom;
+padding: 30px;
+}
+
+#botasso p {
+     text-decoration:none;
+     background-color: #8a4d9d;
+     padding: 15px;
+     padding-left: 3.5rem;
+     padding-right: 3.5rem;
+     color: #ffffff;
+     font-family: 'Raleway', sans-serif;
+     font-weight: 600;
+     border-radius: 12px;
+     width: 250px;
+     margin: auto;
+}
+
+#link a {
+     color: #ffffff;
+}
+
+#roxoi p{
+     font-size: 14px;
+     color: #ffffff;
+     text-align: center;
+}
+
+#roxoi{
+     background-color: #430b6e;
+     vertical-align: center; 
+     font-family: "raleway", sans-serif; 
+} 
+
+#roxoi h1{
+     font-size: 16px;
+     color: #ffffff;
+     text-align: center; 
+} 
+
+#roxo img { margin: 10px;}
+
+.under { text-decoration: underline;}
+
+
+
+
